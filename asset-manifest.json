@@ -1,13 +1,13 @@
 {
-  "main.css": "/fontdemo/static/css/main.5f030010.chunk.css",
-  "main.js": "/fontdemo/static/js/main.88bd4971.chunk.js",
-  "main.js.map": "/fontdemo/static/js/main.88bd4971.chunk.js.map",
+  "main.css": "/fontdemo/static/css/main.c776c56d.chunk.css",
+  "main.js": "/fontdemo/static/js/main.bd85f544.chunk.js",
+  "main.js.map": "/fontdemo/static/js/main.bd85f544.chunk.js.map",
   "runtime~main.js": "/fontdemo/static/js/runtime~main.df9a8622.js",
   "runtime~main.js.map": "/fontdemo/static/js/runtime~main.df9a8622.js.map",
   "static/js/2.ac164eeb.chunk.js": "/fontdemo/static/js/2.ac164eeb.chunk.js",
   "static/js/2.ac164eeb.chunk.js.map": "/fontdemo/static/js/2.ac164eeb.chunk.js.map",
   "index.html": "/fontdemo/index.html",
-  "precache-manifest.24fae6a75fedcc7f0f45a71a64ae290a.js": "/fontdemo/precache-manifest.24fae6a75fedcc7f0f45a71a64ae290a.js",
+  "precache-manifest.121ea36b67e4a638c6019f808be4a4ab.js": "/fontdemo/precache-manifest.121ea36b67e4a638c6019f808be4a4ab.js",
   "service-worker.js": "/fontdemo/service-worker.js",
-  "static/css/main.5f030010.chunk.css.map": "/fontdemo/static/css/main.5f030010.chunk.css.map"
+  "static/css/main.c776c56d.chunk.css.map": "/fontdemo/static/css/main.c776c56d.chunk.css.map"
 }
