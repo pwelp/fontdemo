@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e79ad04d9509b9f33d91",
-    "url": "/fontdemo/static/css/main.22629f25.chunk.css"
+    "revision": "250d8fed0fbdd31ad355",
+    "url": "/fontdemo/static/css/main.d09ba095.chunk.css"
   },
   {
-    "revision": "e79ad04d9509b9f33d91",
-    "url": "/fontdemo/static/js/main.e79ad04d.chunk.js"
+    "revision": "250d8fed0fbdd31ad355",
+    "url": "/fontdemo/static/js/main.250d8fed.chunk.js"
   },
   {
     "revision": "df9a8622f2b522757823",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/fontdemo/static/js/2.ac164eeb.chunk.js"
   },
   {
-    "revision": "b5f726b394bfab08946397d328a4a4e5",
+    "revision": "3eaa83cac2e3e63a903412253d48d7f6",
     "url": "/fontdemo/index.html"
   }
 ];
